@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-🌱Inha university, history & computer science engineering
+🌱INHA University, History & Computer Science Engineering
 
 
-🔭studying web back-end
+🔭Studying web back-end
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yxin)](https://solved.ac/yxin/)   
